@@ -1,0 +1,3 @@
+select * from testing_exam;
+insert into testing_exam(exam_id,testing_id) value (1,2);
+select * from testingsystem.group;
